@@ -11,10 +11,20 @@ Professional but personable, formal but funny, articulate, artistic (and alliter
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sawston Village College** (September 2018 to August 2022)  
+_Teacher of Music_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Working with the Head of Department in a highly reputable faculty to deliver outstanding music lessons and opportunities to pupils aged 11-16, including the GCSE course.
+
+•	Planning, delivering and reviewing lessons which engage pupils of mixed abilities and needs;
+•	Producing and developing resources and schemes of work in line with the National Curriculum;
+•	Accurately monitoring and recording student progress and grades;
+•	Running co-curricular musical activities.
+
+Key achievements
+•	Organizing and producing high-quality virtual ensemble performances using Logic and Final Cut Pro during the coronavirus pandemic;
+•	Collaborating with Art and Drama departments to produce outstanding theatrical shows featuring pupils across both Key Stages.
+
 
 **Company Name** (start-date to end-date)  
 _Your job title_
