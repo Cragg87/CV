@@ -1,6 +1,6 @@
-## Your Name
+## Miles Cragg
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Professional but personable, formal but funny, articulate, artistic (and alliterative, apparently), I have eagerly uprooted from a successful career in teaching to train and work as a software developer. I am delighted to have secured a place on the highly selective and renowned Makers Academy bootcamp in London, through which I am nurturing and growing my amateur coding skills towards a professional level suitable for launching a new career in software development. As a highly skilled musician and educator, I am driven by my desire for order, organization and precision, and have found these skills to be of temendous benefit in coding, where careful thought, evaluation and attention to detail are the key to clean and user-friendly source code. 
 
 ## Projects
 
