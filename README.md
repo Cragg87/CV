@@ -1,13 +1,38 @@
 ## Miles Cragg
 
-Professional but personable, formal but funny, articulate, artistic (and alliterative, apparently), I have eagerly uprooted from a successful career in teaching to train and work as a software developer. I am delighted to have secured a place on the highly selective and renowned Makers Academy bootcamp in London, through which I am nurturing and growing my amateur coding skills towards a professional level suitable for launching a new career in software development. As a highly skilled musician and educator, I am driven by my desire for order, organization and precision, and have found these skills to be of temendous benefit in coding, where careful thought, evaluation and attention to detail are the key to clean and user-friendly source code. 
+[LinkedIn](https://www.linkedin.com/in/milescragg/)
+| 
+[YouTube channel](https://www.youtube.com/@CoronaComedy)
+
+Professional but personable, formal but funny, articulate, artistic (and alliterative, apparently), I have eagerly uprooted from a successful career in secondary education to train and work as a software developer. 
+Why? 
+I desperately wanted a new challenge away from the exhaustion of the classroom, far from the monotony of marking 120 essays on The Rite of Spring or the pangs emanating from abused xylophones. 
+I was delighted to secure a place on the highly-acclaimed Makers Academy bootcamp in London, through which I nurtured and grew my once amateur coding skills to a professional standard ready for new and exciting career opportunities.
+Combining my knowledge, my clarity of communication and my gentle sense of humour, I love to work in a team, developing solid professional relationsihps built on trust, openness and respect.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name (click to view repo) | Description | Tech/tools |
+| --- | --- | --- |
+| **[RatRace](https://github.com/Ollie-HB/rat-race)** | For the final Makers group project, I helped to build a non-realtime game and clone of the childhood favourite Snakes and Ladders. My focus was on board logic, two-player functionality and graphic design. I also undertook much of the refactoring. | React, Jest, CSS |
+| **[GrumbleBook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | A group project building a clone of Facebook: here, we created a platform for users to sign up, log in and post their various grievances. I was able to focus on CSS, developing a retro 8-bit look with fonts, images and animations. | Javascript, Jest, MongoDB, Express, React, CSS, Node, Cypress, CSS |
+| **[Bank Tech Test](https://github.com/Cragg87/bank-tech-test)** | A solo project building a banking programme that lets a user deposit and/or withdraw from an account, and view a statement with balance. Operable from the command line. | JavaScript, Jest |
+| **[Makers Reviews](https://github.com/Cragg87/Makers-Reviews)** | A series of live, anonymized assessments in which I was given non-technical user requirements and asked to convert these requirements into a working, tested, well-written application. Comprehensive feedback is included for each review. | Ruby, RSpec |
+| **[MakersBnB](https://github.com/Arshad-Siddiqui/makersbnb-ruby-seed)** | A week-long group project building a basic clone of AirBnB, where users can sign up, log in, book a space or list their own spaces. I contributed to the sign-up and log-in features, investigating BCrypt for security. I also helped develop the database. | Ruby, Sinatra, RSpec, CSS |
+
+## Skills
+
+#### • Planning and organization
+As a teacher, I have learnt to manage an extremely heavy and varied workload, ensuring that lessons are well researched, prepared and delivered, whilst keeping on top of marking, reports, correspondence and meetings. As a developer, my diagrams, design recipes and commit headings are integral to the successful production of code.
+
+#### • Presentation and attention to detail
+I take great pride in the professional standard of formatting for everything I produce, including educational resources, musical scores, videos and slides. I have a keen eye for detail, and have helped colleagues to spot coding errors quickly, producing clean, well formatted and readable code.
+
+#### • Communication
+Whether compering at concerts, preaching from the church pulpit, or teaching a class of young people, I communicate confidently whilst relating in a friendly and encouraging manner. I am careful to ensure information is accessibly presented, scaffolding for mixed abilities where necessary. In conversation or group discussion, I like to make others feel relaxed and able to contribute, using gentle humour to defuse any awkwardness or disquiet.
+
+#### • Resourcefulness
+During the pandemic, I was quick to adapt to online teaching and music making. I learnt to use new audio and video editing software, and led the way in producing videos for church services, virtual performances, and even my own comedy series on Youtube (youtube.com/c/CoronaComedy).
 
 ## Work Experience
 
@@ -50,19 +75,7 @@ _Key achievements_
 •	Creating and rehearsing new and exciting choral compositions and arrangements for special services;
 •	Researching and purchasing a new bespoke digital pipe organ, which included collating extensive reports on the condition of the existing organ, writing a comprehensive proposal and obtaining a faculty from the Church of England.
 
-## Skills
 
-#### • Planning and organization
-As a teacher, I have learnt to manage an extremely heavy and varied workload, ensuring that lessons are well researched, prepared and delivered, whilst keeping on top of marking, reports, correspondence and meetings. I have proved reliable and thorough in my duties.
-
-#### • Presentation and attention to detail
-I take great pride in the professional standard of formatting for everything I produce, including educational resources, musical scores, videos and slides. Well-known by colleagues for my grammatical precision and eye for detail, I am often called upon to proofread documents, which I enjoy doing.
-
-#### • Communication
-Whether compering at concerts, preaching from the church pulpit, or teaching a class of young people, I communicate confidently whilst relating in a friendly and encouraging manner. I am careful to ensure information is accessibly presented, scaffolding for mixed abilities where necessary. In conversation or group discussion, I like to make others feel relaxed and able to contribute, using gentle humour to defuse any awkwardness or disquiet.
-
-#### • Resourcefulness
-During the pandemic, I was quick to adapt to online teaching and music making. I learnt to use new audio and video editing software, and led the way in producing videos for church services, virtual performances, and even my own comedy series on Youtube (youtube.com/c/CoronaComedy).
 
 ## Education
 
